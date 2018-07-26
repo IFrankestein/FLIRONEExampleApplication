@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gaurav\AndroidStudioProjects\FLIROneSDK-Android_3_0_1\FLIROneSDKBundle\FLIRONEExampleApplication\app\libs\jmatio.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f63982e4ec4e051f49a55cbfc3df2185093fe364">
+        <dex dex="C:\Users\Gaurav\AndroidStudioProjects\FLIROneSDK-Android_3_0_1\FLIROneSDKBundle\FLIRONEExampleApplication\app\build\intermediates\pre-dexed\debug\jmatio_1752d83ddaaa5cb5ad78c14a10b3e6cf39428ae7.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Gaurav\AndroidStudioProjects\FLIROneSDK-Android_3_0_1\FLIROneSDKBundle\FLIRONEExampleApplication\app\libs\jmatio.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f63982e4ec4e051f49a55cbfc3df2185093fe364">
+        <dex dex="C:\Users\Gaurav\AndroidStudioProjects\FLIROneSDK-Android_3_0_1\FLIROneSDKBundle\FLIRONEExampleApplication\app\build\intermediates\transforms\dex\debug\folders\1000\2\jmatio_1752d83ddaaa5cb5ad78c14a10b3e6cf39428ae7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Gaurav\AndroidStudioProjects\FLIROneSDK-Android_3_0_1\FLIROneSDKBundle\FLIRONEExampleApplication\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ed382eeadf91bf8c1efbaa5c5a20a97623bd6ba6">
+        <dex dex="C:\Users\Gaurav\AndroidStudioProjects\FLIROneSDK-Android_3_0_1\FLIROneSDKBundle\FLIRONEExampleApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_8f9986f1d9c9423016d71069273fa6b8422943a0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Gaurav\AndroidStudioProjects\FLIROneSDK-Android_3_0_1\FLIROneSDKBundle\FLIRONEExampleApplication\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\Gaurav\AndroidStudioProjects\FLIROneSDK-Android_3_0_1\FLIROneSDKBundle\FLIRONEExampleApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_b282f17e2ea9d72ac5c648588e532e83580da7dd\classes.dex" />
+    </item>
+
+</items>
